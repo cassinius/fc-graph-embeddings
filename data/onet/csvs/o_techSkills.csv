@@ -1,0 +1,128 @@
+_id,Commodity Code,Commodity Title
+o_techSkills/8daa532f-f5b0-4b84-a787-ebfc6361ef69,43232202,Document management software
+o_techSkills/29ec7de1-373c-4a74-8ef3-ba139a150221,43232306,Data base user interface and query software
+o_techSkills/1b6b1004-428e-4116-82b9-650166ab2855,43232201,Content workflow software
+o_techSkills/9638076a-4369-494c-ab5d-02e74a628bc1,43232303,Customer relationship management CRM software
+o_techSkills/fd93dbb7-7201-4e83-a377-9acdf7796e6b,43231601,Accounting software
+o_techSkills/97fd6cee-b053-40b6-bac9-fc66cb9b38d4,43232305,Data base reporting software
+o_techSkills/3e6eec72-7b77-407d-bc0a-2b49758446f0,43233501,Electronic mail software
+o_techSkills/3940dca1-2aeb-4f43-a6e6-c8567c930b1c,43231602,Enterprise resource planning ERP software
+o_techSkills/ffa1085a-f9d0-4813-aba0-f586326a8ca0,43231605,Time accounting software
+o_techSkills/fac2d651-d2a7-4cb3-810a-0f877926b498,43232403,Enterprise application integration software
+o_techSkills/699635d5-6b3c-4cfd-b454-11ef0627eefc,43232102,Graphics or photo imaging software
+o_techSkills/7ae25f6d-b804-4335-acd5-752702620a7d,43231505,Human resources software
+o_techSkills/3486c4f4-7968-4580-9267-cfcc833bbcac,43231507,Project management software
+o_techSkills/6957a986-011b-4c29-b945-920d5f29e4b4,43232605,Analytical or scientific software
+o_techSkills/0ac3681f-b257-4afe-b045-1561f7423006,43232110,Spreadsheet software
+o_techSkills/ee975abb-ff89-4e43-9fc1-578d235e3378,43231604,Financial analysis software
+o_techSkills/0de3ebfe-e213-4c47-a256-ba76670d3bea,43231513,Office suite software
+o_techSkills/8ea23717-e9d2-44cf-89ce-ce2da3ae9987,43232106,Presentation software
+o_techSkills/ff662ac0-71a9-485d-816d-0171fc26fcea,43232112,Desktop publishing software
+o_techSkills/afa4390b-b2ff-4e98-964b-af5e37f092cb,43232104,Word processing software
+o_techSkills/b740b639-ce99-49c0-8066-daafeae55b36,43232408,Web platform development software
+o_techSkills/4fd52e8e-2a34-4103-8e6c-9a331e3349d4,43232304,Data base management system software
+o_techSkills/a5da2271-02a3-4163-9344-0e5f1065159a,43232705,Internet browser software
+o_techSkills/79d4d2d0-bc16-41b4-bf9b-c5d52a037a93,43232108,Calendar and scheduling software
+o_techSkills/788890bf-ebec-4c31-97a3-95073f1863d3,43233502,Video conferencing software
+o_techSkills/82565d37-45e6-4cb8-adf1-c1105ef159fb,43232103,Video creation and editing software
+o_techSkills/70ce41d4-d669-455c-bc2e-3abcacd263eb,43233004,Operating system software
+o_techSkills/75f0a30d-5d3d-4753-867f-8dc0a76ac28d,43232604,Computer aided design CAD software
+o_techSkills/993c5607-7698-4ede-bbf6-038bf717787b,43232310,Metadata management software
+o_techSkills/a0df9afe-654f-450f-93a1-b6cae8fe338e,43232901,Access software
+o_techSkills/489277dc-5480-49ad-bf08-3e566126cfab,43232612,Computer aided manufacturing CAM software
+o_techSkills/6a34bcd1-8789-44c0-848e-cb38e940649d,43232313,Transaction server software
+o_techSkills/141511ba-b780-4cbe-9ffe-296781707d55,43232307,Data mining software
+o_techSkills/556f108f-c853-4f01-8011-6fb1ceaa32a6,43232610,Medical software
+o_techSkills/5dd01795-19b4-4852-91b6-d24cf930fbd5,43232107,Web page creation and editing software
+o_techSkills/ef73158b-82c4-402e-80ea-62c382bd27e7,43233506,Map creation software
+o_techSkills/4c9155d2-14bf-407c-a906-01945059507a,43231514,Sales and marketing software
+o_techSkills/4ca2987a-42d9-4745-b77c-ebafae7d680c,43232314,Business intelligence and data analysis software
+o_techSkills/cc1444d8-bdf9-4f22-96c1-1b1c650ea8f6,43232902,Communications server software
+o_techSkills/de562df7-dbfe-45ba-bec1-54b4c95bdb2c,43233701,Enterprise system management software
+o_techSkills/d0946f2a-b509-4949-ac96-24a904131f3d,43232603,Facilities management software
+o_techSkills/16a1b280-144b-4a48-827a-f10c76251893,43231508,Inventory management software
+o_techSkills/663ec79c-60b5-4add-8d95-ab402469e76c,43232309,Information retrieval or search software
+o_techSkills/ead48c51-8eb2-40f2-b225-57bbf682cda9,43231506,Materials requirements planning logistics and supply chain software
+o_techSkills/4bd357a6-ccb8-47e8-9817-a1f36805534c,43233205,Transaction security and virus protection software
+o_techSkills/bf94528a-2df7-43d2-9db4-33d4038dc7c5,43232402,Development environment software
+o_techSkills/115c4772-6b77-4b0e-bde9-8afaf1302a17,43232801,Network monitoring software
+o_techSkills/e05f8858-da7b-4bf2-9df0-a40c5e667e77,43232611,Point of sale POS software
+o_techSkills/ca09db01-6582-46f1-ba5a-0f5fd8cf1b44,43232311,Object oriented data base management software
+o_techSkills/4ec301c7-c0d3-4461-8fdc-95d6adc43089,43232401,Configuration management software
+o_techSkills/b1bc9995-a253-466d-91d3-dafe3b739196,43232405,Object or component oriented development software
+o_techSkills/5b71f01e-e1fb-4dae-8b69-85c74d443b5c,43232608,Industrial control software
+o_techSkills/b1b692d8-d1e8-41d8-987e-c5cfb2fb2050,43233415,Backup or archival software
+o_techSkills/265cc18d-5dd7-406f-9fdf-3cabe3ab06ad,43232005,Music or sound editing software
+o_techSkills/388e486d-b86e-44db-b113-62a188d42ee2,43233504,Instant messaging software
+o_techSkills/a3b4d676-6a96-483a-916a-033489353559,43232701,Application server software
+o_techSkills/2b6dce62-e73a-4bf7-a848-8aedb4905939,43231511,Expert system software
+o_techSkills/2daaf1bf-772f-4d7c-b6ba-6829e282b6d8,43232312,Portal server software
+o_techSkills/e74586e1-140a-4f0c-89f0-0cdc651e2de8,43232909,WAN switching software and firmware
+o_techSkills/f424a60f-7b7c-4798-ae48-f16f781f7032,43233001,Filesystem software
+o_techSkills/721a8975-a198-4970-9698-15a7cd1e20f9,43233204,Network security and virtual private network VPN equipment software
+o_techSkills/c08c5a07-b685-404f-9647-4dc3d217a3f8,43231501,Helpdesk or call center software
+o_techSkills/f076ef1c-d379-4cb2-b451-849e192e7a4d,43232915,Platform interconnectivity software
+o_techSkills/9e727f0f-7342-441a-ad1f-f2a9ec0d01a1,43232905,LAN software
+o_techSkills/c245f61a-9627-4ab6-800c-04aff22b4e26,43233503,Network conferencing software
+o_techSkills/223d057c-32de-423c-9d66-282d87a07f75,43232910,Wireless software
+o_techSkills/0229e07c-d725-4ff1-ba4e-556a0503034e,43232606,Compliance software
+o_techSkills/a841ef04-1925-4a53-8205-20952b756237,43232804,Administration software
+o_techSkills/53a01c1c-5829-4586-a0f7-238424e158e6,43232911,Network connectivity terminal emulation software
+o_techSkills/07238bc9-0e23-436c-abb0-afe5e50e88af,43232404,Graphical user interface development software
+o_techSkills/d33e1896-53ce-4043-aac5-b6d02581ae38,43232407,Requirements analysis and system architecture software
+o_techSkills/fd1fd253-9fab-4998-baa8-80d297572df0,43232406,Program testing software
+o_techSkills/15cf9ffa-20e7-40a4-8d2b-54f1fc7be9cd,43231503,Procurement software
+o_techSkills/5bc046c5-3f87-40e7-a433-074a4764a7b8,43231510,Label making software
+o_techSkills/7d8b79c6-4241-4cdb-810e-5101a4eb5c96,43232504,Route navigation software
+o_techSkills/453cf312-9db2-472b-820d-ea904f51a998,43233511,Mobile location based services software
+o_techSkills/9073d4b1-f051-4bea-9213-7d787735f457,43232105,Charting software
+o_techSkills/93f6d0b1-eb86-4365-97b8-3a4e62786c23,43232502,Computer based training software
+o_techSkills/2a9fc7ea-7afc-434a-a842-b88989420e28,43232203,File versioning software
+o_techSkills/7297841d-3749-461f-88d0-17a4e01d6778,43232301,Categorization or classification software
+o_techSkills/1e1365b5-9e31-49c7-928a-cc42adcda738,43231603,Tax preparation software
+o_techSkills/f8bfe030-20ac-4295-b352-b9b9b3b4b211,43232703,Interactive voice response software
+o_techSkills/83be804a-fc8b-4fe2-b87d-8f460cc76439,43232111,Optical character reader OCR or scanning software
+o_techSkills/0c3a2f94-c88d-4fd5-be3a-10e12dbd5c7c,43231512,License management software
+o_techSkills/6a4dc6d0-81ad-487d-9499-f7f6fa9af261,43232101,Pattern design software
+o_techSkills/9e01a63f-712c-436e-a6c0-8d5273952c0a,43233203,Network security or virtual private network VPN management software
+o_techSkills/97d3b3b5-eabf-44f9-8fba-ec4598d486de,43232912,Gateway software
+o_techSkills/c1115b20-f206-4ab3-a576-6d004e13e61d,43233002,Network operation system software
+o_techSkills/e29ad393-c896-4729-85b3-2d024ddb3ad6,43233508,Mobile operator specific application software
+o_techSkills/91736151-36e1-4fcc-b7ae-40fd994b7d30,43231515,Mailing and shipping software
+o_techSkills/dc266c37-b619-4f1d-9877-fe0847f7c973,43231516,Audit software
+o_techSkills/c5410869-bef4-4b1a-b793-7fb1b1bb1576,43232302,Clustering software
+o_techSkills/4c971d8b-71e1-4c15-9476-e6dc41526ba3,43232409,Compiler and decompiler software
+o_techSkills/428b2709-86ed-4787-9d61-31304503e48c,43232704,Internet directory services software
+o_techSkills/b44a855f-4e22-44a1-b15f-325270491d98,43232702,Desktop communications software
+o_techSkills/ae1393e0-4d83-4358-905c-9ef0365b48a9,43233402,Data conversion software
+o_techSkills/b0a6d090-505b-464e-a8d1-967e36b6e554,43232805,Internet protocol IP multimedia subsystem software
+o_techSkills/b4a7829e-a26e-4f80-a91e-3e138349ec4b,43233201,Authentication server software
+o_techSkills/006301b7-0553-4f4d-a134-b877cf25987c,43233405,Device drivers or system software
+o_techSkills/dcad494c-4f89-46b5-8c0a-904353e99bc2,43232907,Storage networking software
+o_techSkills/4a5f624d-4012-4442-a142-d53102151b1b,43232613,Manufacturing execution system MES software
+o_techSkills/21cf541c-01d1-4ed9-931e-c6c392bd5374,43232802,Network operating system enhancement software
+o_techSkills/9c1c4d1c-d1fe-4384-9d92-9242f79cd924,43232803,Optical network management software
+o_techSkills/6b121331-5afd-42d1-945c-601148aaac1b,43232908,Switch or router software
+o_techSkills/f82f7a94-b708-401c-9601-c26d805d72a5,43232913,Bridge software
+o_techSkills/5ae3fbc1-f412-4306-8ed9-b2fd98284bf3,43233414,Storage media loading software
+o_techSkills/bff5808c-951b-4cd4-b81a-b8cbfdec2cb5,43233403,Data compression software
+o_techSkills/b7d571ba-47c5-456c-80e3-c45f57ca243a,43232607,Flight control software
+o_techSkills/23cbc869-c1af-4c2b-a1af-8b36b63c29bf,43233413,Voice recognition software
+o_techSkills/1456d28d-f245-4c8d-8846-e3295dc86e2d,43232616,Legal management software
+o_techSkills/ad0ea9aa-402d-461d-8fad-6b226258727c,43232609,Library software
+o_techSkills/c305f400-2011-4100-b996-aee2c9c9364e,43232505,Multi-media educational software
+o_techSkills/fee525eb-e385-4456-9a8f-8a1226e8f078,43232507,Dictionary software
+o_techSkills/f0f3cc74-0028-447c-8461-4463f6b73bad,43232501,Foreign language software
+o_techSkills/e90aaf78-c146-4ac7-9764-fbb5d31dabf3,43232503,Spell checkers
+o_techSkills/feb41242-e373-4663-8a1d-8958127bd5d5,43233420,Text to speech conversion software
+o_techSkills/3283cab5-81b4-4ff5-9906-d2b21ccb1129,43232001,Action games
+o_techSkills/9a1f6cd9-0281-4f64-9eb8-7c7d2525007e,43232903,Contact center software
+o_techSkills/59f175df-a89d-46da-931c-7e0d7edae01b,43232904,Fax software
+o_techSkills/41d72d90-4777-4080-b9ce-2f193cc52378,43233509,Mobile messaging service software
+o_techSkills/36ee1e26-ceea-4a44-aa51-eed5a6ac2547,43232601,Aviation ground support software
+o_techSkills/7f75d95c-6210-47a2-8469-90f8baffc0b2,43231509,Bar coding software
+o_techSkills/d7630467-ecc5-4a77-a1e0-eafec47099f9,43232509,Voice synthesizer and recognition software
+o_techSkills/710885c6-ccb1-415b-9c18-5de0c73a0fb1,43233407,Graphics card driver software
+o_techSkills/df376ff5-5d70-46f3-ac45-2356d8271bc8,43233410,Printer driver software
+o_techSkills/9b862fa9-a35c-4ea6-8dbe-182b457e1b27,43232614,Computer aided design CAD and computer aided manufacturing CAM system
+o_techSkills/0a1b4486-c42b-45c5-80f5-f8dda0f11eba,43231517,Procedure management software

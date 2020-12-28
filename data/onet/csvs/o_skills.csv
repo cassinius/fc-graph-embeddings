@@ -1,0 +1,36 @@
+_id,Element ID,Element Name
+o_skills/d40bc695-eca3-4e83-a333-e6ab28ac3dd1,2.A.1.a,Reading Comprehension
+o_skills/ef0e8a03-a3f5-46d7-82c2-c441a1e63827,2.A.1.b,Active Listening
+o_skills/486fde84-60f3-4c40-b9c2-cc52dcb072d1,2.A.1.c,Writing
+o_skills/16a4419f-4c7c-4a6e-ae6a-fcfeef593dad,2.A.1.d,Speaking
+o_skills/bf010820-bcd8-4388-8c0f-f05a524891ed,2.A.1.e,Mathematics
+o_skills/984b074d-a970-470e-bb0b-f4bafb01ca98,2.A.1.f,Science
+o_skills/4f293707-49d5-4d26-9853-5ba674f59075,2.A.2.a,Critical Thinking
+o_skills/83e37de8-e65b-42bd-bd61-1e71f80ae418,2.A.2.b,Active Learning
+o_skills/db89053b-2d28-4cbf-b6ba-b9fc375ec7a8,2.A.2.c,Learning Strategies
+o_skills/2c7d1ab2-c024-466f-a0ad-7ac3cd20a9a8,2.A.2.d,Monitoring
+o_skills/ec3b6c0c-ab47-4a50-bb2a-c1f02dd411cc,2.B.1.a,Social Perceptiveness
+o_skills/cfd3ea2a-257e-4aaa-b87c-49e930aa559b,2.B.1.b,Coordination
+o_skills/be2f59ba-0cf4-4d75-9d50-5a7db3ac00b0,2.B.1.c,Persuasion
+o_skills/4aa6b374-332a-4eed-914e-bfced0e02294,2.B.1.d,Negotiation
+o_skills/bf0acc7d-2316-4e04-9ba2-a33b2a9b2bd3,2.B.1.e,Instructing
+o_skills/96ee6b98-ad41-44b0-ad6f-d62061a61447,2.B.1.f,Service Orientation
+o_skills/949e840a-c6e9-4ce5-9695-aa8fec119bb2,2.B.2.i,Complex Problem Solving
+o_skills/edf80dca-ff93-4e64-b4e5-82b7897faa1c,2.B.3.a,Operations Analysis
+o_skills/4fa344d1-fa28-4723-af2f-32628eaa0d19,2.B.3.b,Technology Design
+o_skills/75f5f5a8-b68e-4c27-ae2a-44a46ea32b40,2.B.3.c,Equipment Selection
+o_skills/e57305c6-c806-4259-b5ac-913cfc11e13b,2.B.3.d,Installation
+o_skills/8550c5f0-01ba-40d2-8160-87280d7b538a,2.B.3.e,Programming
+o_skills/1d1668bc-5ebd-4bea-b54c-a08bd3d65d83,2.B.3.g,Operation Monitoring
+o_skills/f83b7acb-18bb-4576-be8b-599a0687dc5a,2.B.3.h,Operation and Control
+o_skills/c874e64d-99c4-472c-8985-8b38ff9240a0,2.B.3.j,Equipment Maintenance
+o_skills/77775939-90c1-432f-bc47-75bf7e847a8b,2.B.3.k,Troubleshooting
+o_skills/4268d354-6842-47c3-9d06-f4c8be5f117b,2.B.3.l,Repairing
+o_skills/18677b59-bbb1-44dc-8dd0-13d5cf3f9095,2.B.3.m,Quality Control Analysis
+o_skills/9baa5b42-89a9-466b-9e89-16445fda9dbc,2.B.4.e,Judgment and Decision Making
+o_skills/710741f3-3986-4cc0-92c3-5c750f1b0f6f,2.B.4.g,Systems Analysis
+o_skills/28ce994e-891a-4a2c-9e50-f8b8d95387ac,2.B.4.h,Systems Evaluation
+o_skills/7e8bda80-e39b-4629-bac9-ad9714c7f916,2.B.5.a,Time Management
+o_skills/095f88fb-7049-4dad-a3cc-18f42e4cb8fd,2.B.5.b,Management of Financial Resources
+o_skills/623d1592-be9a-4f88-bcb9-e6ee0e11216d,2.B.5.c,Management of Material Resources
+o_skills/fc18904a-fd9e-423b-9292-5ea815c46c72,2.B.5.d,Management of Personnel Resources

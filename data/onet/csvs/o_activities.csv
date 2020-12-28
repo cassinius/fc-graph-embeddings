@@ -1,0 +1,42 @@
+_id,Element ID,Element Name
+o_activities/790fbbbc-e9e3-414c-8ae4-cbed5a42dfa3,4.A.1.a.1,Getting Information
+o_activities/2246596c-1576-4366-9586-f250212e284a,4.A.1.a.2,"Monitor Processes, Materials, or Surroundings"
+o_activities/dbd6047d-da94-4e69-bcd3-8c21ea6c3c59,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+o_activities/fcf1b764-b7d4-424c-bc0f-23ca8a58509d,4.A.1.b.2,"Inspecting Equipment, Structures, or Material"
+o_activities/137a5985-823c-47a2-b3ed-821bd91df67c,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+o_activities/a4f1df47-19f2-445e-89e9-5aed0a12d78c,4.A.2.a.1,"Judging the Qualities of Things, Services, or People"
+o_activities/21ad6deb-4a38-44d2-b19b-7a935e0a036b,4.A.2.a.2,Processing Information
+o_activities/89e11843-0094-4f70-8c47-671440a06830,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+o_activities/22704e83-49fb-415f-9a56-296ffea8f296,4.A.2.a.4,Analyzing Data or Information
+o_activities/5cef7b17-be09-4802-a9bf-bfda2b5855ee,4.A.2.b.1,Making Decisions and Solving Problems
+o_activities/ec4013a2-7b5c-4db8-9ef4-b518ad4219f2,4.A.2.b.2,Thinking Creatively
+o_activities/452672b7-7813-4cd5-97e0-3364c6496c91,4.A.2.b.3,Updating and Using Relevant Knowledge
+o_activities/1b426eef-88f4-4086-bece-f91ed2a24499,4.A.2.b.4,Developing Objectives and Strategies
+o_activities/8e976ab3-26fe-43d7-a5e3-f104b5dd9bf7,4.A.2.b.5,Scheduling Work and Activities
+o_activities/4f58bb35-c9d2-4725-bdb4-10e73317d0ff,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work"
+o_activities/44e94af6-0e15-492d-90b4-12145a296fdc,4.A.3.a.1,Performing General Physical Activities
+o_activities/cf25409b-fb31-4bea-b57e-f1b3ee90b74b,4.A.3.a.2,Handling and Moving Objects
+o_activities/3c050d62-12f3-4877-93e1-6fc817014442,4.A.3.a.3,Controlling Machines and Processes
+o_activities/5cdeba07-2f8e-4ca2-b8d1-592d4aea6b75,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+o_activities/d8501a67-2459-4bb4-b7a9-6b41a0b715b1,4.A.3.b.1,Interacting With Computers
+o_activities/250c94ab-a42f-4264-a303-648423fc110a,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+o_activities/0c75463d-3dc0-49ba-806a-60d3b797ee2f,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+o_activities/eb73cbe8-4e02-4a0b-bf10-f9a33e54bac7,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+o_activities/ebfc252e-e6e7-4775-b245-86def0a2ee12,4.A.3.b.6,Documenting/Recording Information
+o_activities/22cd41fd-ad55-418a-994d-1b5f86741e2c,4.A.4.a.1,Interpreting the Meaning of Information for Others
+o_activities/78ad3132-917f-46f9-bc40-6612869b16a7,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+o_activities/bce20e9c-dc5d-4249-9b18-b042a209f766,4.A.4.a.3,Communicating with Persons Outside Organization
+o_activities/1c21c960-f418-4a75-8c27-5746210b8fcd,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships
+o_activities/a29e42a7-c871-48de-8945-98dc023e29a7,4.A.4.a.5,Assisting and Caring for Others
+o_activities/2229aa20-c84e-4f51-b51c-67dfbd150fe5,4.A.4.a.6,Selling or Influencing Others
+o_activities/369551d5-db24-4c4d-b72c-2a0f51374d70,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+o_activities/f6905975-1c21-4c6b-ae0e-f6485fdb142a,4.A.4.a.8,Performing for or Working Directly with the Public
+o_activities/f2e3c8a9-a8b9-4101-8e56-b062bdc284f2,4.A.4.b.1,Coordinating the Work and Activities of Others
+o_activities/2ce87e6f-c36d-460e-b65e-1e6b0d82510b,4.A.4.b.2,Developing and Building Teams
+o_activities/61100a1e-f47d-451d-aeb4-ce56628b9268,4.A.4.b.3,Training and Teaching Others
+o_activities/2560692f-2337-41f9-97d4-4ffa958c16d9,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+o_activities/85601971-5122-4dab-803f-419e8cf6f7ee,4.A.4.b.5,Coaching and Developing Others
+o_activities/e05b7b5d-70ee-4371-ab69-cbddf8faf3d7,4.A.4.b.6,Provide Consultation and Advice to Others
+o_activities/e85f5d04-586b-4c62-819b-816ace28c31a,4.A.4.c.1,Performing Administrative Activities
+o_activities/e147a30b-7e4f-439d-905c-8637e5b346ff,4.A.4.c.2,Staffing Organizational Units
+o_activities/610b888a-bbb0-48fb-98bf-d3d50702d997,4.A.4.c.3,Monitoring and Controlling Resources

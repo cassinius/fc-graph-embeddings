@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Outputs
+**/outputs/**
+trained_models
+
+# IDEs
+.idea
+.vs
+.vscode
+
+# Logs
+logs
+
+# Results
+results
+
+# Trained models
+**/trained_models
+
+# __pycache__
+**/__pycache__

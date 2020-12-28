@@ -1,0 +1,333 @@
+_id,Element ID,IWA ID,IWA Title
+o_iwa/24f86fdf-b814-4690-9f98-eac1ce32bc66,4.A.1.a.1,4.A.1.a.1.I01,Study details of artistic productions.
+o_iwa/02c78abd-3205-4b4b-af57-de4fc07c1d1e,4.A.1.a.1,4.A.1.a.1.I02,Read documents or materials to inform work processes.
+o_iwa/523df002-f318-436e-b9c7-2665a4afe981,4.A.1.a.1,4.A.1.a.1.I03,Investigate criminal or legal matters.
+o_iwa/442f0d10-9bf2-41cf-af65-22a9c94edf6f,4.A.1.a.1,4.A.1.a.1.I04,Gather information from physical or electronic sources.
+o_iwa/95e803a1-7d37-4e4b-bc7b-3a9b3e722fe8,4.A.1.a.1,4.A.1.a.1.I05,Consult legal materials or public records.
+o_iwa/314a0594-50e5-4221-977b-69e0542fd0bf,4.A.1.a.1,4.A.1.a.1.I06,Gather data about operational or development activities.
+o_iwa/8d9b6b68-78c5-4cec-936a-7fc2ca344a37,4.A.1.a.1,4.A.1.a.1.I07,Obtain information about goods or services.
+o_iwa/6cc082fa-b561-446e-a424-90408766c997,4.A.1.a.1,4.A.1.a.1.I08,Research issues related to earth sciences.
+o_iwa/bd661d20-3ef1-4bcd-a845-bc73aa7f783f,4.A.1.a.1,4.A.1.a.1.I09,"Research organizational behavior, processes, or performance."
+o_iwa/30677684-aca3-49ae-b24f-ad4743fbb5dc,4.A.1.a.1,4.A.1.a.1.I10,Investigate the environmental impact of industrial or development activities.
+o_iwa/cd84f141-8882-4ce6-9c08-22b34a06ef4d,4.A.1.a.1,4.A.1.a.1.I11,Gather information for news stories.
+o_iwa/c4d7c732-80fc-47bb-9dc5-f7ff683464f2,4.A.1.a.1,4.A.1.a.1.I12,Collect information about patients or clients.
+o_iwa/e1d7b5a9-e25d-43ff-bde9-325835c6e402,4.A.1.a.1,4.A.1.a.1.I13,Research agricultural processes or practices.
+o_iwa/f2be4304-184c-4a40-84ab-65db90b65585,4.A.1.a.1,4.A.1.a.1.I14,Collect data about consumer needs or opinions.
+o_iwa/0157c572-0470-423e-853d-80730a46fa7e,4.A.1.a.1,4.A.1.a.1.I15,"Investigate individuals' background, behavior, or activities."
+o_iwa/74dbd316-ea83-4c29-be5f-87188e8e30e8,4.A.1.a.1,4.A.1.a.1.I16,Research biological or ecological phenomena.
+o_iwa/63ea6002-ba5a-40b3-98e2-ce996f495a9b,4.A.1.a.1,4.A.1.a.1.I17,Obtain formal documentation or authorization.
+o_iwa/683c9c01-0164-45df-a682-1c660e20b15f,4.A.1.a.1,4.A.1.a.1.I18,Research historical or social issues.
+o_iwa/16e4e58d-f211-4cb1-b1f6-2e304906af78,4.A.1.a.1,4.A.1.a.1.I19,Research healthcare issues.
+o_iwa/3638e432-1230-4776-839e-0dff886f5425,4.A.1.a.1,4.A.1.a.1.I20,Research technology designs or applications.
+o_iwa/8f73a67c-b8a5-4d32-b4cb-752fa217f090,4.A.1.a.1,4.A.1.a.1.I21,Investigate incidents or accidents.
+o_iwa/39ce95e1-7391-44a2-8223-5d7cd735d536,4.A.1.a.1,4.A.1.a.1.I22,Investigate organizational or operational problems.
+o_iwa/c5c751c8-0e6f-4916-a67d-8ea3f3a2ed38,4.A.1.a.1,4.A.1.a.1.I23,Interview people to obtain information.
+o_iwa/9f603965-6675-4956-85fc-e0f26551497c,4.A.1.a.2,4.A.1.a.2.I01,Monitor equipment operation.
+o_iwa/babb2793-dc41-4c14-b757-2c41e4464275,4.A.1.a.2,4.A.1.a.2.I02,Monitor operations to ensure adequate performance.
+o_iwa/c50a8808-77d0-4852-a741-9e8637e3884d,4.A.1.a.2,4.A.1.a.2.I03,Monitor financial data or activities.
+o_iwa/64fc67db-ec22-4a11-b067-1666b5f26eb1,4.A.1.a.2,4.A.1.a.2.I04,Monitor traffic conditions.
+o_iwa/3bd45cb2-0cae-4b1f-9c6c-2eff939da41f,4.A.1.a.2,4.A.1.a.2.I05,Monitor health conditions of humans or animals.
+o_iwa/06e34d6f-a3b5-4376-b37e-48f8d86c3302,4.A.1.a.2,4.A.1.a.2.I06,Monitor individual behavior or performance.
+o_iwa/2d68c25c-16d2-49be-964b-33e485f0a214,4.A.1.a.2,4.A.1.a.2.I07,"Monitor safety or security of work areas, facilities, or properties."
+o_iwa/a727586a-98f9-4fe8-882f-2fcac9ef4dc2,4.A.1.a.2,4.A.1.a.2.I08,"Monitor external affairs, trends, or events."
+o_iwa/0d16f3ad-0ea6-435e-8d3a-be8f1fcf7a8e,4.A.1.a.2,4.A.1.a.2.I09,Monitor environmental conditions.
+o_iwa/e0953916-6f29-4b88-b862-aa16f7e38f60,4.A.1.a.2,4.A.1.a.2.I10,Monitor operation of computer or information technologies.
+o_iwa/c1e51088-5110-4ba9-9e97-40f0cc60bc81,4.A.1.a.2,4.A.1.a.2.I11,Monitor operations to ensure compliance with regulations or standards.
+o_iwa/d6ec39a4-c0af-4258-9814-d443e8c70f93,4.A.1.b.1,4.A.1.b.1.I01,Mark materials or objects for identification.
+o_iwa/216cadf0-ebb7-4a4d-8997-a06e93684196,4.A.1.b.1,4.A.1.b.1.I02,Identify business or organizational opportunities.
+o_iwa/2056c784-4efb-4d34-b2da-4225085558e9,4.A.1.b.2,4.A.1.b.2.I01,Administer diagnostic tests to assess patient health.
+o_iwa/365413a4-bbe3-45fc-8391-73fd662481fb,4.A.1.b.2,4.A.1.b.2.I02,Evaluate green technologies or processes.
+o_iwa/b07ce948-2439-4ca7-ae91-6887c38484f9,4.A.1.b.2,4.A.1.b.2.I03,Test characteristics of materials or products.
+o_iwa/6be10537-83b4-4857-8b71-aabaa3529787,4.A.1.b.2,4.A.1.b.2.I04,Inspect vehicles.
+o_iwa/8845eb69-bd6f-49bb-86c3-a684cbcc1706,4.A.1.b.2,4.A.1.b.2.I05,Inspect facilities or equipment.
+o_iwa/c71bf871-efc9-4453-9ec9-d8dc62434506,4.A.1.b.2,4.A.1.b.2.I06,Inspect completed work or finished products.
+o_iwa/8309214c-9cbf-4ec1-b3c5-5a524972d7c2,4.A.1.b.2,4.A.1.b.2.I07,"Inspect commercial, industrial, or production systems or equipment."
+o_iwa/a3a88217-f5c5-421e-bea5-9787d4821798,4.A.1.b.2,4.A.1.b.2.I08,Test performance of computer or information systems.
+o_iwa/7f29919d-7dd3-437c-b567-7789f25c1159,4.A.1.b.2,4.A.1.b.2.I09,Examine people or animals to assess health conditions or physical characteristics.
+o_iwa/3b161acc-7002-4d51-89d6-78da26781939,4.A.1.b.2,4.A.1.b.2.I10,Inspect characteristics or conditions of materials or products.
+o_iwa/249c93ef-9fad-4274-84f2-1f96c42be395,4.A.1.b.2,4.A.1.b.2.I11,Test sites or materials for environmental hazards.
+o_iwa/88c98c85-f949-4e97-9123-fbf1d409e54b,4.A.1.b.2,4.A.1.b.2.I12,Test performance of equipment or systems.
+o_iwa/a33a729d-37c5-4564-a42d-65c7a2951ce7,4.A.1.b.3,4.A.1.b.3.I01,"Measure physical characteristics of materials, products, or equipment."
+o_iwa/4cbee867-3549-47c7-b613-bc7aa982feee,4.A.1.b.3,4.A.1.b.3.I02,Estimate project development or operational costs.
+o_iwa/348148de-0834-47d9-aa7b-eabb59f54fe8,4.A.1.b.3,4.A.1.b.3.I03,Calculate financial data.
+o_iwa/b9a7a807-ca15-42c1-ac42-ac0cb6b44fa8,4.A.1.b.3,4.A.1.b.3.I04,Assess characteristics of land or property.
+o_iwa/391d774f-13e3-401f-ac2e-bdad9f664c9b,4.A.1.b.3,4.A.1.b.3.I05,Take physical measurements of patients or clients.
+o_iwa/0015eb7e-737c-4111-b34c-b44236d72a25,4.A.2.a.1,4.A.2.a.1.I01,"Assess living, work, or social needs or status of individuals or communities."
+o_iwa/585bd892-b395-42bf-88c2-0069d52ef081,4.A.2.a.1,4.A.2.a.1.I02,"Evaluate programs, practices, or processes."
+o_iwa/2774e5c0-614e-4d19-9d3b-75919e071b09,4.A.2.a.1,4.A.2.a.1.I03,"Assess student capabilities, needs, or performance."
+o_iwa/c623e0cd-53e8-4e5e-8966-ef3492834b9e,4.A.2.a.1,4.A.2.a.1.I04,Evaluate personnel capabilities or performance.
+o_iwa/2c004d99-5c14-4d87-9e49-7dedc82bd727,4.A.2.a.1,4.A.2.a.1.I05,Evaluate production inputs or outputs.
+o_iwa/e7294d41-6897-4651-8f87-a6235bfd847f,4.A.2.a.1,4.A.2.a.1.I06,Evaluate patient or client condition or treatment options.
+o_iwa/68dfcc19-44da-47f1-8d11-dc44852ce1c7,4.A.2.a.1,4.A.2.a.1.I07,"Evaluate the characteristics, usefulness, or performance of products or technologies."
+o_iwa/65ed2c78-d954-4f9d-b3e7-6d5cdfa460a5,4.A.2.a.1,4.A.2.a.1.I08,Evaluate scholarly work.
+o_iwa/c0a1fb58-0d9e-41c2-8efb-33407ceddc13,4.A.2.a.1,4.A.2.a.1.I09,"Evaluate condition of financial assets, property, or other resources."
+o_iwa/999dabfc-1733-4f6e-82bc-c22ab5949e01,4.A.2.a.1,4.A.2.a.1.I10,Evaluate project feasibility.
+o_iwa/bf98eca3-22e4-4634-ae9f-403b049e5680,4.A.2.a.2,4.A.2.a.2.I01,Evaluate the quality or accuracy of data.
+o_iwa/a17dbae2-b333-47ac-94f7-077e178918ae,4.A.2.a.2,4.A.2.a.2.I02,Sort materials or products.
+o_iwa/8d6c58b3-7b7d-4fef-ab99-773a12b9e309,4.A.2.a.2,4.A.2.a.2.I03,"Compile records, documentation, or other data."
+o_iwa/d8428f85-3601-4147-b8a8-7e6616f3b357,4.A.2.a.2,4.A.2.a.2.I04,Reconcile financial data.
+o_iwa/a41afb3a-df60-4f92-be34-604cfca983a2,4.A.2.a.2,4.A.2.a.2.I05,Verify personal information.
+o_iwa/da8ff788-63d9-4770-8008-5aa41b1efa83,4.A.2.a.3,4.A.2.a.3.I01,Examine materials or documentation for accuracy or compliance.
+o_iwa/9062ac39-f554-464e-9a96-74e0c5863935,4.A.2.a.3,4.A.2.a.3.I02,Assess compliance with environmental standards or regulations.
+o_iwa/ae979157-af32-45f3-9392-594f01113339,4.A.2.a.3,4.A.2.a.3.I03,"Examine financial activities, operations, or systems."
+o_iwa/a48cf0ef-7213-4a4a-a382-82e7c869d99c,4.A.2.a.3,4.A.2.a.3.I04,Follow standard healthcare safety procedures to protect patient and staff members.
+o_iwa/a59de2ee-34c2-45e4-92ee-3669618c34f7,4.A.2.a.4,4.A.2.a.4.I01,Analyze environmental or geospatial data.
+o_iwa/c57a61c0-59b5-49eb-b8c9-601f97c56796,4.A.2.a.4,4.A.2.a.4.I02,Analyze market or industry conditions.
+o_iwa/587643ce-423b-468e-a419-400cb4e96aaa,4.A.2.a.4,4.A.2.a.4.I03,Analyze business or financial risks.
+o_iwa/e6979128-ca73-46dc-bc49-bc6f1cf3b14d,4.A.2.a.4,4.A.2.a.4.I04,Analyze scientific or applied data using mathematical principles.
+o_iwa/1b3c81c3-2513-4b95-902b-30bd9906639c,4.A.2.a.4,4.A.2.a.4.I05,"Evaluate designs, specifications, or other technical data."
+o_iwa/2557dd0f-c12b-4441-9b71-f18befcf169e,4.A.2.a.4,4.A.2.a.4.I06,Analyze health or medical data.
+o_iwa/2c536365-c5af-4150-b6de-d36aba9b19ae,4.A.2.a.4,4.A.2.a.4.I07,Analyze data to improve operations.
+o_iwa/6d812a1a-cd65-449f-8637-c3a482d8179e,4.A.2.a.4,4.A.2.a.4.I08,"Research laws, precedents, or other legal data."
+o_iwa/83ba6835-5aa6-4138-993d-8a28571b3940,4.A.2.a.4,4.A.2.a.4.I09,Assess characteristics or impacts of regulations or policies.
+o_iwa/24b3a62b-1a3b-462a-9176-1215c641c082,4.A.2.a.4,4.A.2.a.4.I10,Analyze biological or chemical substances or related data.
+o_iwa/a9c69340-5589-4a05-b38c-282400ec04af,4.A.2.a.4,4.A.2.a.4.I11,Analyze business or financial data.
+o_iwa/59bab149-3dcf-4a8f-9605-671a9da43ea0,4.A.2.a.4,4.A.2.a.4.I12,Analyze performance of systems or equipment.
+o_iwa/b3c5f378-6adf-4dc4-8024-743a9da95119,4.A.2.b.1,4.A.2.b.1.I01,Determine values or prices of goods or services.
+o_iwa/f2c3b933-a1ac-4679-96b3-e767a770dbdb,4.A.2.b.1,4.A.2.b.1.I02,Diagnose system or equipment problems.
+o_iwa/e5ab01de-4c3e-4a52-b0d6-ff3d0a7f0689,4.A.2.b.1,4.A.2.b.1.I03,Authorize business activities or transactions.
+o_iwa/b5524769-1ab5-415c-b63d-ed9ddee322fb,4.A.2.b.1,4.A.2.b.1.I04,Determine operational methods or procedures.
+o_iwa/eddf76a1-1bda-4392-b337-b02d1e48c716,4.A.2.b.1,4.A.2.b.1.I05,Make legal decisions.
+o_iwa/458bca8f-e009-44f2-8c6d-19f8d7292c04,4.A.2.b.1,4.A.2.b.1.I06,Diagnose health conditions or disorders.
+o_iwa/f7f2d6d1-df0e-4dcd-ae57-97cb77d508b7,4.A.2.b.1,4.A.2.b.1.I07,Edit written materials or documents.
+o_iwa/faeeab94-10a1-4426-a7e6-769534ed1658,4.A.2.b.1,4.A.2.b.1.I08,Determine resource needs of projects or operations.
+o_iwa/0eb4d90f-efb0-44ae-8ebc-ab1bd2a1c9a6,4.A.2.b.1,4.A.2.b.1.I09,Implement procedures or processes.
+o_iwa/a1fb19b9-4d86-4efe-8882-354f77e181c9,4.A.2.b.1,4.A.2.b.1.I10,Select materials or equipment for operations or projects.
+o_iwa/984b2bd8-4735-455d-b7e4-c95945de7eaf,4.A.2.b.1,4.A.2.b.1.I11,Alter audio or video recordings.
+o_iwa/785531ef-2e47-4192-a0c2-cf8d2b95745a,4.A.2.b.2,4.A.2.b.2.I01,Develop patient or client care or treatment plans.
+o_iwa/8fb93c6d-3908-4f5a-94a6-34b6fd0ec15b,4.A.2.b.2,4.A.2.b.2.I02,Design computer or information systems or applications.
+o_iwa/97f8c90a-c210-4ed7-a1f1-1f7dee3cbd03,4.A.2.b.2,4.A.2.b.2.I03,Develop business or marketing plans.
+o_iwa/e8162ca9-f455-44a8-99cb-1fef61c4c873,4.A.2.b.2,4.A.2.b.2.I04,Develop recipes or menus.
+o_iwa/fb924f07-ee9a-4e25-abfe-da621d464a17,4.A.2.b.2,4.A.2.b.2.I05,"Develop safety standards, policies, or procedures."
+o_iwa/c44eca1a-037c-43a3-8d2e-787e8930964f,4.A.2.b.2,4.A.2.b.2.I06,Design databases.
+o_iwa/70fb413b-0f85-427d-8ff0-095f5a55b90f,4.A.2.b.2,4.A.2.b.2.I07,Develop technical specifications for products or operations.
+o_iwa/4913104c-7531-4f88-af03-7bfe4a281aed,4.A.2.b.2,4.A.2.b.2.I08,Develop plans for managing or preserving natural resources.
+o_iwa/b274760d-3b9e-497a-9891-f4d06c8c387f,4.A.2.b.2,4.A.2.b.2.I09,Develop financial or business plans.
+o_iwa/6ad98b07-62ad-4abf-a3bb-1c77e4f709cf,4.A.2.b.2,4.A.2.b.2.I10,Develop health assessment methods or programs.
+o_iwa/6e1ab971-6681-4ad3-8eb0-ae11c47590e3,4.A.2.b.2,4.A.2.b.2.I11,Design structures or facilities.
+o_iwa/86056b71-7529-4be8-bb68-5f07884cbe2c,4.A.2.b.2,4.A.2.b.2.I12,Develop marketing or promotional materials.
+o_iwa/4d8b3a6e-1b26-4f87-9cf2-2aa66a4e09e2,4.A.2.b.2,4.A.2.b.2.I13,Design materials or devices.
+o_iwa/03fddcb7-4e66-487b-8846-d5d41cfba1e6,4.A.2.b.2,4.A.2.b.2.I14,Design industrial systems or equipment.
+o_iwa/d9b9a051-d08b-4017-9526-a79baad5dc3b,4.A.2.b.2,4.A.2.b.2.I15,"Develop educational programs, plans, or procedures."
+o_iwa/63dc3573-01a1-4464-b333-1b4cd70854a2,4.A.2.b.2,4.A.2.b.2.I16,Develop systems or practices to mitigate or resolve environmental problems.
+o_iwa/1457c8e1-b0a2-4ab8-8007-b469c5c84666,4.A.2.b.2,4.A.2.b.2.I17,Develop public or community health programs.
+o_iwa/d88f8728-0b45-44b0-907f-3de8edbe817f,4.A.2.b.2,4.A.2.b.2.I18,Create visual designs or displays.
+o_iwa/1094aaf1-f27d-43ca-8f4e-f46420a172bb,4.A.2.b.2,4.A.2.b.2.I19,Develop contingency or emergency response plans.
+o_iwa/9567c414-b14e-48a0-a7b9-731411ed367b,4.A.2.b.2,4.A.2.b.2.I20,Develop sustainable organizational or business policies or practices.
+o_iwa/21388814-eb79-466d-8a39-52ada9864793,4.A.2.b.2,4.A.2.b.2.I21,"Develop models of systems, processes, or products."
+o_iwa/b70a5ce8-dfd7-4726-af57-fffa824d2804,4.A.2.b.2,4.A.2.b.2.I22,"Develop news, entertainment, or artistic content."
+o_iwa/9c59710c-eb0f-49ae-acd3-98c2924d7d4c,4.A.2.b.2,4.A.2.b.2.I23,Develop research plans or methodologies.
+o_iwa/e9c23dad-f757-41ec-8f9c-a8470ba77412,4.A.2.b.2,4.A.2.b.2.I24,Design electrical or electronic systems or equipment.
+o_iwa/c9282df0-ae1c-4063-a562-88a263ada4c8,4.A.2.b.2,4.A.2.b.2.I25,Create artistic designs or performances.
+o_iwa/7947471e-431d-428b-b641-51c9c7da1527,4.A.2.b.2,4.A.2.b.2.I26,Develop scientific or mathematical theories or models.
+o_iwa/b1059c96-f48f-4ffb-8647-f6e6f64e81d2,4.A.2.b.2,4.A.2.b.2.I27,Develop organizational or program goals or objectives.
+o_iwa/31c75bc0-5068-4fb2-8d30-f39e5176ada5,4.A.2.b.3,4.A.2.b.3.I01,Maintain current knowledge in area of expertise.
+o_iwa/982955c1-79fb-4704-ba3e-62296de218e9,4.A.2.b.4,4.A.2.b.4.I01,"Develop organizational policies, systems, or processes."
+o_iwa/77d9df7b-45ed-436b-8e25-5806ecebaaa0,4.A.2.b.4,4.A.2.b.4.I02,Draft legislation or regulations.
+o_iwa/fd78ed22-3bc3-4feb-9b21-d4ec9a5d11f0,4.A.2.b.4,4.A.2.b.4.I03,Develop operational or technical procedures or standards.
+o_iwa/aff75914-5f16-4245-ac07-f29587563417,4.A.2.b.5,4.A.2.b.5.I01,Prepare schedules for services or facilities.
+o_iwa/9d1aa72c-b167-475a-82e5-79e4b78ca8f3,4.A.2.b.5,4.A.2.b.5.I02,Schedule operational activities.
+o_iwa/b40cbdf3-fd2a-4e18-a7ce-a91dfd9a0aa2,4.A.2.b.5,4.A.2.b.5.I03,Schedule appointments.
+o_iwa/86556a59-b3e8-42e7-a0c9-5982fa06efed,4.A.2.b.6,4.A.2.b.6.I01,Plan events or programs.
+o_iwa/e57ff843-8aa3-4655-b31c-b186afcb2e70,4.A.2.b.6,4.A.2.b.6.I02,Plan work activities.
+o_iwa/85003176-6ee4-4a55-bfdb-34cb922b2db4,4.A.3.a.1,4.A.3.a.1.I01,Prepare mixtures or solutions.
+o_iwa/0d1efec8-896f-4896-a9fc-8a94dc3aea47,4.A.3.a.1,4.A.3.a.1.I02,Protect people or property from threats such as fires or flooding.
+o_iwa/b8259d9c-1fef-4056-bb5d-1307023e82d1,4.A.3.a.1,4.A.3.a.1.I03,"Clean tools, equipment, facilities, or work areas."
+o_iwa/a2160480-9cd5-45ec-a971-14cfd583158b,4.A.3.a.1,4.A.3.a.1.I04,Set up protective structures or coverings near work areas.
+o_iwa/298becda-38d2-445a-aa9a-032f0c93d271,4.A.3.a.1,4.A.3.a.1.I05,Dispose of waste or debris.
+o_iwa/d97fc90b-9e2a-4b3b-9e61-8178f9dd1959,4.A.3.a.1,4.A.3.a.1.I06,"Load products, materials, or equipment for transportation or further processing."
+o_iwa/15e08cf0-06fa-4300-9962-a1af44d155a4,4.A.3.a.1,4.A.3.a.1.I07,Perform general construction or extraction activities.
+o_iwa/18732e0a-eaa3-499f-aa0a-58870300688b,4.A.3.a.1,4.A.3.a.1.I08,"Clean workpieces, finished products, or other objects."
+o_iwa/df6163b6-a3ce-4149-bb5d-2ea7e9b19acb,4.A.3.a.1,4.A.3.a.1.I09,Clean medical equipment or facilities.
+o_iwa/0d6f8fef-9748-4d57-bcf5-03307e8951ac,4.A.3.a.1,4.A.3.a.1.I10,"Move materials, equipment, or supplies."
+o_iwa/8c2623da-b760-4de6-a613-b86fa8920c2c,4.A.3.a.1,4.A.3.a.1.I11,Maintain safety or security.
+o_iwa/694d0bac-3f00-42ae-8270-20ae152ffe87,4.A.3.a.1,4.A.3.a.1.I12,Escort others.
+o_iwa/6a710f1f-9831-4cd5-b8d7-17d3965da980,4.A.3.a.1,4.A.3.a.1.I13,Transport patients or clients.
+o_iwa/122b1c28-09ad-411e-8e7d-be6ff90592f8,4.A.3.a.1,4.A.3.a.1.I14,Climb equipment or structures.
+o_iwa/b0fd8619-5643-475e-a0cc-48c0df20a81d,4.A.3.a.1,4.A.3.a.1.I15,Provide food or beverage services.
+o_iwa/bf9f7309-c805-4fbc-a193-c84018f1976e,4.A.3.a.1,4.A.3.a.1.I16,"Perform athletic activities for fitness, competition, or artistic purposes."
+o_iwa/aaeec7fd-661c-48ce-a8d5-c519e603e868,4.A.3.a.1,4.A.3.a.1.I17,Perform agricultural activities.
+o_iwa/54db5ca8-14d9-491e-a0e2-4b5b2f7e0f24,4.A.3.a.2,4.A.3.a.2.I01,Build structures.
+o_iwa/1c132540-2b3b-41ad-b92d-3cd1f1660f48,4.A.3.a.2,4.A.3.a.2.I02,Collect samples of products or materials.
+o_iwa/661a4c75-634b-4778-9e0c-93fc486282f9,4.A.3.a.2,4.A.3.a.2.I03,Prepare foods or beverages.
+o_iwa/c206d34d-5982-4fce-b3fb-7843cdd7a3db,4.A.3.a.2,4.A.3.a.2.I04,Assemble equipment or components.
+o_iwa/fa62c954-ee61-4710-8832-6032221b2bb2,4.A.3.a.2,4.A.3.a.2.I05,Sew garments or materials.
+o_iwa/b31d05c0-c365-468b-9a8f-32f2e8222771,4.A.3.a.2,4.A.3.a.2.I06,Position workpieces or materials on equipment.
+o_iwa/28495be4-318d-40be-8850-d059597eb13e,4.A.3.a.2,4.A.3.a.2.I07,Shape materials to create products.
+o_iwa/d671d16d-9e45-4058-8c58-cb66c875d9ff,4.A.3.a.2,4.A.3.a.2.I08,Arrange displays or decorations.
+o_iwa/4edb9ba4-b2b6-4760-8080-18a1bce96906,4.A.3.a.2,4.A.3.a.2.I09,Adjust equipment to ensure adequate performance.
+o_iwa/b98bcc41-3450-4715-9e72-7784b554796f,4.A.3.a.2,4.A.3.a.2.I10,Train animals.
+o_iwa/d99dd539-aeca-4334-af38-d8b13e68d713,4.A.3.a.2,4.A.3.a.2.I11,Prepare medical equipment or work areas for use.
+o_iwa/beaa554f-1975-4076-9306-34df19f792ac,4.A.3.a.2,4.A.3.a.2.I12,Cut materials.
+o_iwa/9d807a08-ca78-4b73-9546-d68afbb756ca,4.A.3.a.2,4.A.3.a.2.I13,Prepare industrial materials for processing or use.
+o_iwa/f4e2edb0-f3ad-40d8-9bac-509cbe7b84b3,4.A.3.a.2,4.A.3.a.2.I14,Cut trees or other vegetation.
+o_iwa/69ebbb32-cf80-4466-8020-f3c99ae438a3,4.A.3.a.2,4.A.3.a.2.I15,Smooth surfaces of objects or equipment.
+o_iwa/caa06722-1b19-4223-9bc0-4f37413be4cf,4.A.3.a.2,4.A.3.a.2.I16,Install energy or heating equipment.
+o_iwa/0ec7696d-0d07-404b-b5dc-c4c9ba1e770a,4.A.3.a.2,4.A.3.a.2.I17,Fabricate medical devices.
+o_iwa/e7f57b79-7a7f-4aac-b8f7-89be590e53d0,4.A.3.a.2,4.A.3.a.2.I18,Direct vehicle traffic.
+o_iwa/291e8bcf-abd9-4216-9d75-d12524bbe2a1,4.A.3.a.2,4.A.3.a.2.I19,Disassemble equipment.
+o_iwa/275ad4ea-2cde-42ec-ad57-0060f1e498c9,4.A.3.a.2,4.A.3.a.2.I20,Install commercial or production equipment.
+o_iwa/6d7b17c9-aa54-4974-ae23-6a2576f76d79,4.A.3.a.2,4.A.3.a.2.I21,Apply hygienic or cosmetic agents to skin or hair.
+o_iwa/7f2c9be9-788b-4ebe-84d1-7d1b6c4d5257,4.A.3.a.2,4.A.3.a.2.I22,Position tools or equipment.
+o_iwa/5f9bd291-e99e-482e-8ba1-de436c7800ba,4.A.3.a.2,4.A.3.a.2.I23,Tend watercraft.
+o_iwa/1e2b53f3-ff0c-4420-962b-bc0dddc3145e,4.A.3.a.2,4.A.3.a.2.I24,Adjust medical equipment to ensure adequate performance.
+o_iwa/e68b42a2-e395-4f5c-a490-f57139c48bfb,4.A.3.a.2,4.A.3.a.2.I25,Engrave objects.
+o_iwa/faccc92a-5e1d-48c0-9882-b8870f492131,4.A.3.a.2,4.A.3.a.2.I26,Embalm corpses.
+o_iwa/80ee60b1-6da2-4009-9371-2ad4d3ab7658,4.A.3.a.2,4.A.3.a.2.I27,Fabricate devices or components.
+o_iwa/03c86eb3-d9b9-4ced-a645-f17b160f2589,4.A.3.a.2,4.A.3.a.2.I28,Create decorative objects or parts of objects.
+o_iwa/64581060-b592-4a48-9c18-f10d6ba7972c,4.A.3.a.2,4.A.3.a.2.I29,Process animal carcasses.
+o_iwa/deca27bc-31c2-4d6a-8902-6e32e560bfe0,4.A.3.a.2,4.A.3.a.2.I30,Drill holes in earth or materials.
+o_iwa/40b843ee-5861-4772-8703-1ab67457abb5,4.A.3.a.2,4.A.3.a.2.I31,Groom or style hair.
+o_iwa/2fe2d896-2526-498e-aacd-d0fbf88a0cbb,4.A.3.a.2,4.A.3.a.2.I32,"Set up classrooms, facilities, educational materials, or equipment."
+o_iwa/a378202e-53cb-4ca6-b8a9-c5ef026e154e,4.A.3.a.2,4.A.3.a.2.I33,Apply protective solutions or coatings.
+o_iwa/9d90f0a5-3f1c-4781-b6c4-6f3b6d398e65,4.A.3.a.2,4.A.3.a.2.I34,Connect components or supply lines to equipment or tools.
+o_iwa/8dc73dd5-95c7-4ebd-8008-1027b99ca344,4.A.3.a.2,4.A.3.a.2.I35,"Join parts using soldering, welding, or brazing techniques."
+o_iwa/3b2a5703-0294-4f6f-80cb-4a7c6063fce5,4.A.3.a.2,4.A.3.a.2.I36,Assemble products or work aids.
+o_iwa/58063f65-c206-491e-8596-5cda8bd70ce1,4.A.3.a.2,4.A.3.a.2.I37,Stock supplies or products.
+o_iwa/9e442994-7c72-4ffa-aba6-2cf56a9304f2,4.A.3.a.2,4.A.3.a.2.I38,Collect environmental or biological samples.
+o_iwa/9553e42d-92ca-47cd-a523-6c2d10ec8b57,4.A.3.a.2,4.A.3.a.2.I39,Apply materials to fill gaps or imperfections.
+o_iwa/0116845e-f9e9-4a68-9047-808af3daf062,4.A.3.a.2,4.A.3.a.2.I40,Remove workpieces from production equipment.
+o_iwa/bc91db85-f73c-4b0e-9d44-f1ef7274e473,4.A.3.a.2,4.A.3.a.2.I41,Position materials or components for assembly.
+o_iwa/7799daff-0600-4c28-9dfe-759aec750806,4.A.3.a.2,4.A.3.a.2.I42,Package objects.
+o_iwa/2f37a53e-07b5-4992-9691-cfcfa323096b,4.A.3.a.2,4.A.3.a.2.I43,Install plumbing or piping equipment or systems.
+o_iwa/5c3eb19a-2fe5-4252-81da-9dd43141e477,4.A.3.a.2,4.A.3.a.2.I44,Hunt animals.
+o_iwa/0be9c39d-a0f3-4366-b808-fb797fbb400c,4.A.3.a.2,4.A.3.a.2.I45,Apply decorative finishes.
+o_iwa/4700ecbc-8109-4803-9baf-977545ce7ab3,4.A.3.a.2,4.A.3.a.2.I46,Set up equipment.
+o_iwa/cf9f04d9-4821-47c5-a08b-1bf9f64ca888,4.A.3.a.2,4.A.3.a.2.I47,Prepare specimens or materials for testing.
+o_iwa/2dcc57c2-1c06-43f8-bd37-6fc5d71f7c23,4.A.3.a.3,4.A.3.a.3.I01,Operate office equipment.
+o_iwa/b7c8a5be-ff68-4fd2-b7a7-1fcf449d501e,4.A.3.a.3,4.A.3.a.3.I02,Operate pumping systems or equipment.
+o_iwa/8bbd3179-7dc2-4fb6-abc8-408fd888e34e,4.A.3.a.3,4.A.3.a.3.I03,Operate construction or excavation equipment.
+o_iwa/eeffc61e-b369-45fe-b35e-98cf1846b6cc,4.A.3.a.3,4.A.3.a.3.I04,Operate medical equipment.
+o_iwa/97043786-f726-47c4-b7f1-23627322afa9,4.A.3.a.3,4.A.3.a.3.I05,Operate audiovisual or related equipment.
+o_iwa/96ab0fd3-a737-41e3-8267-3319d9e41137,4.A.3.a.3,4.A.3.a.3.I06,Operate industrial processing or production equipment.
+o_iwa/e9fd705e-3ad2-41c5-86b9-f75329061eff,4.A.3.a.3,4.A.3.a.3.I07,Operate energy production or distribution equipment.
+o_iwa/2d880e43-44d4-4ae7-84e0-ec0a39ab63e2,4.A.3.a.3,4.A.3.a.3.I08,Operate lifting or moving equipment.
+o_iwa/c0e1c7b4-c128-4114-bdac-95bce9bc2943,4.A.3.a.3,4.A.3.a.3.I09,Operate laboratory or field equipment.
+o_iwa/ad0dd6c0-346c-48a4-b964-b8ea81a1923e,4.A.3.a.3,4.A.3.a.3.I10,Operate communications equipment or systems.
+o_iwa/faf018a4-e776-4686-b34d-85beb97dd191,4.A.3.a.3,4.A.3.a.3.I11,Operate agricultural or forestry equipment.
+o_iwa/e465ac6d-6597-4ce2-8c24-a3db5fc9967f,4.A.3.a.3,4.A.3.a.3.I12,Operate cutting or grinding equipment.
+o_iwa/6127dcec-1742-4530-8a53-2986bf3fd16d,4.A.3.a.4,4.A.3.a.4.I01,Operate transportation equipment or vehicles.
+o_iwa/2de6bce7-c1f9-499e-8223-34e04189b400,4.A.3.b.1,4.A.3.b.1.I01,Program computer systems or production equipment.
+o_iwa/76825537-7a11-41e5-a5c7-67319ebfa1a9,4.A.3.b.1,4.A.3.b.1.I02,Implement security measures for computer or information systems.
+o_iwa/8fe5f6b8-b6e4-4e9f-9ada-b02dbab77c0b,4.A.3.b.1,4.A.3.b.1.I03,"Set up computer systems, networks, or other information systems."
+o_iwa/c0625532-8f16-41f0-8bd5-594fe31a52bb,4.A.3.b.1,4.A.3.b.1.I04,Resolve computer problems.
+o_iwa/d4fec1a6-9963-4917-8ba8-b0186c4f2116,4.A.3.b.1,4.A.3.b.1.I05,Operate computer systems or computerized equipment.
+o_iwa/95eac5e8-a2ac-436b-8e83-1be1e45c9262,4.A.3.b.1,4.A.3.b.1.I06,Process digital or online data.
+o_iwa/f1d6dc0c-6d43-4758-9c41-4fbd76c472da,4.A.3.b.4,4.A.3.b.4.I01,Maintain facilities or equipment.
+o_iwa/03cc8dad-4e94-4edf-a13d-d405b1818de1,4.A.3.b.4,4.A.3.b.4.I02,Maintain tools or equipment.
+o_iwa/365bd92f-0fa9-411a-bd0c-81636fc4168e,4.A.3.b.4,4.A.3.b.4.I03,Repair electrical or electronic equipment.
+o_iwa/969f2af8-8325-4a4b-9cbf-58c11cc80674,4.A.3.b.4,4.A.3.b.4.I04,"Maintain electronic, computer, or other technical equipment."
+o_iwa/c64ffbc4-30d7-4dc0-974f-06959172e315,4.A.3.b.4,4.A.3.b.4.I05,Repair workpieces or products.
+o_iwa/59f4e76e-f3cd-44e1-82fb-d000459505b6,4.A.3.b.4,4.A.3.b.4.I06,Repair tools or equipment.
+o_iwa/b1e69148-5e49-4bc5-a7f5-aa94f91dd08e,4.A.3.b.4,4.A.3.b.4.I07,Repair vehicle components.
+o_iwa/d4c19b98-3889-4895-b3d6-c3b3c208801c,4.A.3.b.4,4.A.3.b.4.I08,Maintain vehicles in working condition.
+o_iwa/f664a5de-d0f8-4939-aae9-c5c19b460747,4.A.3.b.4,4.A.3.b.4.I09,Maintain medical equipment or instruments.
+o_iwa/199bd8a2-224b-45ec-8b34-ba7f716a4759,4.A.3.b.6,4.A.3.b.6.I01,"Prepare financial documents, reports, or budgets."
+o_iwa/d6823cad-4ae0-4369-b21b-c3282ba98db2,4.A.3.b.6,4.A.3.b.6.I02,Record information about legal matters.
+o_iwa/62e8efa3-8d1d-4e07-97ce-22bb056257ac,4.A.3.b.6,4.A.3.b.6.I03,Present research or technical information.
+o_iwa/10ac1a39-f4ce-4f6b-9969-cfe91f8719df,4.A.3.b.6,4.A.3.b.6.I04,Record information about environmental conditions.
+o_iwa/54caf406-05a5-4854-aa49-1d35c7fc6c5e,4.A.3.b.6,4.A.3.b.6.I05,Record images with photographic or audiovisual equipment.
+o_iwa/3349b17a-1e25-4151-8296-5244add0f4e0,4.A.3.b.6,4.A.3.b.6.I06,Prepare health or medical documents.
+o_iwa/650f3698-3e00-4b72-b16c-6a24a1d2a0ef,4.A.3.b.6,4.A.3.b.6.I07,Prepare proposals or grant applications.
+o_iwa/e3e79c06-054a-48ae-a5c5-3a2f9c528806,4.A.3.b.6,4.A.3.b.6.I08,Maintain operational records.
+o_iwa/0cb9c64a-c9cd-42ab-9075-a05ec163f682,4.A.3.b.6,4.A.3.b.6.I09,"Document technical designs, procedures, or activities."
+o_iwa/de8e060b-e69c-4903-a340-e612d980ce83,4.A.3.b.6,4.A.3.b.6.I10,Maintain sales or financial records.
+o_iwa/d4764c95-83d5-43c3-b63b-9c8de8a8f284,4.A.3.b.6,4.A.3.b.6.I11,Maintain health or medical records.
+o_iwa/28176b62-f286-48e2-b8b0-8d11a59910b2,4.A.3.b.6,4.A.3.b.6.I12,Prepare informational or instructional materials.
+o_iwa/cbdc8a9b-b2fc-4266-8190-9ca22e065490,4.A.3.b.6,4.A.3.b.6.I13,"Prepare documentation for contracts, applications, or permits."
+o_iwa/aa5780b6-d9b9-4581-ae3b-bd6362046c81,4.A.3.b.6,4.A.3.b.6.I14,Prepare legal or regulatory documents.
+o_iwa/4a790989-07ea-4a61-9be8-12333088bce1,4.A.3.b.6,4.A.3.b.6.I15,Prepare reports of operational or procedural activities.
+o_iwa/792de37d-cf92-4db1-8893-f2424583cdfa,4.A.3.b.6,4.A.3.b.6.I16,Write material for artistic or commercial purposes.
+o_iwa/ff061939-8b43-42c1-a9f6-e86b16b480d0,4.A.4.a.1,4.A.4.a.1.I01,Explain technical details of products or services.
+o_iwa/f2d3bcf5-301a-4695-86ab-d5fb8dec534f,4.A.4.a.1,4.A.4.a.1.I02,"Explain regulations, policies, or procedures."
+o_iwa/442e5f9f-8856-44c4-be88-181fbd832c34,4.A.4.a.1,4.A.4.a.1.I03,"Interpret language, cultural, or religious information for others."
+o_iwa/946fd77f-570f-420c-8e10-cfed744c27fa,4.A.4.a.1,4.A.4.a.1.I04,Explain financial information.
+o_iwa/16e8c609-c02c-4a28-805d-badd7bc98a0d,4.A.4.a.1,4.A.4.a.1.I05,Explain medical information to patients or family members.
+o_iwa/83294eea-2ca9-40d7-b812-818b028340ff,4.A.4.a.2,4.A.4.a.2.I01,Communicate environmental or sustainability information.
+o_iwa/abf28664-0e75-4ee0-b6a6-12cd8e10240a,4.A.4.a.2,4.A.4.a.2.I02,"Assist scientists, scholars, or technical specialists with projects or research."
+o_iwa/493d37df-d172-4daf-bbd4-bec91b51b39c,4.A.4.a.2,4.A.4.a.2.I03,Communicate with others about operational plans or activities.
+o_iwa/67ece3f5-87fc-4512-b685-cd69d767be1d,4.A.4.a.2,4.A.4.a.2.I04,Coordinate with others to resolve problems.
+o_iwa/02f22b8c-195c-47f7-adf8-a6fdf3f24175,4.A.4.a.2,4.A.4.a.2.I05,Confer with healthcare or other professionals about patient care.
+o_iwa/84a86c02-2136-4ce2-93a1-f2a52057b8fa,4.A.4.a.2,4.A.4.a.2.I06,Communicate with others about business strategies.
+o_iwa/b85c1156-6499-433a-80e9-146373d6a21d,4.A.4.a.2,4.A.4.a.2.I07,Collaborate in the development of educational programs.
+o_iwa/b698c0aa-7f81-4674-9e2a-0798437ae34d,4.A.4.a.2,4.A.4.a.2.I08,Notify others of emergencies or problems.
+o_iwa/5abc2af3-dee8-465e-a8b4-dc4208f4914c,4.A.4.a.2,4.A.4.a.2.I09,Communicate with others about specifications or project details.
+o_iwa/1892145c-c798-4288-83a3-d117c314a16b,4.A.4.a.2,4.A.4.a.2.I10,Signal others to coordinate work activities.
+o_iwa/46a00e22-fd76-4e77-a029-87c85d38f5cf,4.A.4.a.2,4.A.4.a.2.I11,"Coordinate activities with clients, agencies, or organizations."
+o_iwa/9c4b03f7-1828-4379-a105-543cb433b9bc,4.A.4.a.2,4.A.4.a.2.I12,"Discuss legal matters with clients, disputants, or legal professionals or staff."
+o_iwa/b2371532-5e9d-4294-b2ae-a791719221da,4.A.4.a.2,4.A.4.a.2.I13,Confer with clients to determine needs or order specifications.
+o_iwa/8aa4df43-1f41-45b4-8cd8-57d3a1b28399,4.A.4.a.3,4.A.4.a.3.I01,Present information in legal proceedings.
+o_iwa/181325c9-6d12-4595-82e4-207b64fddbcf,4.A.4.a.3,4.A.4.a.3.I02,Provide information or assistance to the public.
+o_iwa/a54345c2-ec96-4de8-b31d-f4b41b005082,4.A.4.a.3,4.A.4.a.3.I03,"Provide information to guests, clients, or customers."
+o_iwa/9456d595-35ff-428b-ab6d-b2d1656df825,4.A.4.a.4,4.A.4.a.4.I01,Develop professional relationships or networks.
+o_iwa/ccf77b6b-1756-499c-9e31-d43b61795301,4.A.4.a.5,4.A.4.a.5.I01,Assist others to access additional services or resources.
+o_iwa/0669dc50-bfb7-47d4-8667-fa7f26975111,4.A.4.a.5,4.A.4.a.5.I02,Administer therapeutic treatments.
+o_iwa/655a5a55-c586-4d9c-a247-3c4a424a6772,4.A.4.a.5,4.A.4.a.5.I03,Administer basic health care or medical treatments.
+o_iwa/4f8e3d78-7523-41d4-a8de-d96a27e5f0d8,4.A.4.a.5,4.A.4.a.5.I04,Care for plants or animals.
+o_iwa/97b743a5-cdb5-486e-8758-6283be88287a,4.A.4.a.5,4.A.4.a.5.I05,Intervene in crisis situations or emergencies.
+o_iwa/2d4807bd-a53b-453b-b4d2-b8bc191bf5e0,4.A.4.a.5,4.A.4.a.5.I06,Fit assistive devices to patients or clients.
+o_iwa/f449c270-e041-45e6-bd3a-24ecf2560612,4.A.4.a.5,4.A.4.a.5.I07,Administer emergency medical treatment.
+o_iwa/7020011c-c7ea-4078-b1eb-6f9bfe7ac1b1,4.A.4.a.5,4.A.4.a.5.I08,Assist individuals with paperwork.
+o_iwa/6a07507d-5bbf-4518-bea7-cb820ba0e432,4.A.4.a.5,4.A.4.a.5.I09,Assist individuals with special needs.
+o_iwa/46bed7b6-6fce-4879-bce9-f5a456dc37b1,4.A.4.a.5,4.A.4.a.5.I10,"Provide general assistance to others, such as customers, patrons, or motorists."
+o_iwa/42737389-d37f-4b96-a91d-d713db5ffee3,4.A.4.a.5,4.A.4.a.5.I11,Assist healthcare practitioners during medical procedures.
+o_iwa/ad3f0bb8-9ffd-4898-b61f-4522fa7ac6f4,4.A.4.a.5,4.A.4.a.5.I12,"Treat injuries, illnesses, or diseases."
+o_iwa/5bb4305d-0385-4d60-a333-a30526ff3932,4.A.4.a.6,4.A.4.a.6.I01,Advocate for individual or community needs.
+o_iwa/7988177f-b59c-4b79-8ed0-8f5663408161,4.A.4.a.6,4.A.4.a.6.I02,Sell products or services.
+o_iwa/2c46a910-95c1-4a9f-bd42-05d1a26cf4d0,4.A.4.a.6,4.A.4.a.6.I03,"Promote products, services, or programs."
+o_iwa/2a9a922e-aa41-471a-b93a-1a0795b9d4f9,4.A.4.a.7,4.A.4.a.7.I01,Mediate disputes.
+o_iwa/e8d398fe-93d3-4ccc-89dc-f226d736c60e,4.A.4.a.7,4.A.4.a.7.I02,Negotiate contracts or agreements.
+o_iwa/a31efc87-afb1-46c0-bce4-4dfb32f4c51f,4.A.4.a.7,4.A.4.a.7.I03,Resolve personnel or operational problems.
+o_iwa/9989c92c-3f3b-461b-8dfc-4618bb8c1106,4.A.4.a.8,4.A.4.a.8.I01,Present arts or entertainment performances.
+o_iwa/7b9366bb-ff35-4f77-82b4-4e46fc7fc8a1,4.A.4.a.8,4.A.4.a.8.I02,Conduct amusement or gaming activities.
+o_iwa/64ba42fb-4e81-4e3d-8116-29c5016da731,4.A.4.a.8,4.A.4.a.8.I03,Respond to customer problems or inquiries.
+o_iwa/894e08e2-6185-4f2e-a6b3-4dd8ba6173f9,4.A.4.b.3,4.A.4.b.3.I01,Teach life skills.
+o_iwa/3456e51f-f26e-492c-93c2-bcb214fdd79d,4.A.4.b.3,4.A.4.b.3.I02,Teach academic or vocational subjects.
+o_iwa/68e9181b-8020-4f55-8c9d-9345b23e4b0d,4.A.4.b.3,4.A.4.b.3.I03,Teach safety procedures or standards to others.
+o_iwa/a31d28d4-8741-42aa-a2ff-a63959f357b6,4.A.4.b.3,4.A.4.b.3.I04,Train others on operational or work procedures.
+o_iwa/b99b9bb2-38e3-4136-9dd6-52e4ac1b01a2,4.A.4.b.3,4.A.4.b.3.I05,Train others to use equipment or products.
+o_iwa/cdc3139d-3f15-446f-912b-10741ec6397f,4.A.4.b.3,4.A.4.b.3.I06,Train others on health or medical topics.
+o_iwa/760d7c0e-79ad-4ada-a5c1-88d1999569da,4.A.4.b.4,4.A.4.b.4.I01,Supervise personnel activities.
+o_iwa/deedec3b-362e-4b24-a918-09d898b99d52,4.A.4.b.4,4.A.4.b.4.I02,Serve on organizational committees.
+o_iwa/0e7c2e48-1a94-411a-8ad8-f91b889cf8a4,4.A.4.b.4,4.A.4.b.4.I03,Coordinate artistic or entertainment activities.
+o_iwa/907bfb15-75cd-4c5f-9931-a5c8db56fd1b,4.A.4.b.4,4.A.4.b.4.I04,Manage agricultural or forestry operations.
+o_iwa/e6e684c2-cf9e-4b1d-a26e-30e26d268702,4.A.4.b.4,4.A.4.b.4.I05,Supervise activities in correctional facilities.
+o_iwa/794604e5-97bd-46d0-96a3-9ad4dee46290,4.A.4.b.4,4.A.4.b.4.I06,Direct scientific or technical activities.
+o_iwa/8c221816-5faf-4405-a007-df17e57629cc,4.A.4.b.4,4.A.4.b.4.I07,Manage human resources activities.
+o_iwa/3089b617-7925-427c-bd71-7b812689f0d3,4.A.4.b.4,4.A.4.b.4.I08,Manage control systems or activities.
+o_iwa/007b3905-af4e-4687-90ab-a0b696a54b67,4.A.4.b.4,4.A.4.b.4.I09,Manage budgets or finances.
+o_iwa/49f71cd4-3cfa-444a-9884-7b1638672d57,4.A.4.b.4,4.A.4.b.4.I10,Direct construction or extraction activities.
+o_iwa/fc42ec38-c37c-4d9e-8b86-0481b6f24214,4.A.4.b.4,4.A.4.b.4.I11,"Coordinate group, community, or public activities."
+o_iwa/34645393-9380-431b-b5fa-5050d97be0d7,4.A.4.b.4,4.A.4.b.4.I12,"Direct organizational operations, activities, or procedures."
+o_iwa/87b9244e-1886-4456-b7a5-6360932d5536,4.A.4.b.4,4.A.4.b.4.I13,Assign work to others.
+o_iwa/a7da4e6e-d783-46ee-a611-9809151c4c4d,4.A.4.b.4,4.A.4.b.4.I14,Coordinate regulatory compliance activities.
+o_iwa/77cb5b48-2e40-4409-a2df-e203c142e20b,4.A.4.b.4,4.A.4.b.4.I15,Direct security or safety activities or operations.
+o_iwa/b0eb4aa7-ff8d-4b4c-a729-c4c22c9e2199,4.A.4.b.4,4.A.4.b.4.I16,Direct legal activities.
+o_iwa/18ec7a7f-7ee8-443e-ab9f-6019677a7fab,4.A.4.b.5,4.A.4.b.5.I01,Coach others.
+o_iwa/19e85f32-f93b-4dc0-9223-84caac85103e,4.A.4.b.5,4.A.4.b.5.I02,Provide support or encouragement to others.
+o_iwa/b1ba74a5-e919-4229-96d6-d90198f1883a,4.A.4.b.6,4.A.4.b.6.I01,Advise patients or clients on medical issues.
+o_iwa/98a6e81c-5d87-4f71-963b-e6819d50a694,4.A.4.b.6,4.A.4.b.6.I02,Advise others on products or services.
+o_iwa/8f455045-c394-40be-9365-30e641b261b4,4.A.4.b.6,4.A.4.b.6.I03,Advise others on environmental sustainability or green practices.
+o_iwa/78764ba3-f941-4585-a838-adaa5c75a993,4.A.4.b.6,4.A.4.b.6.I04,Advise others on the design or use of technologies.
+o_iwa/c4f1bc82-7afa-4dc2-a793-e8382b83c056,4.A.4.b.6,4.A.4.b.6.I05,Advise others on business or operational matters.
+o_iwa/c11410c2-5b2f-448e-b68d-26a37c445eae,4.A.4.b.6,4.A.4.b.6.I06,Advise others on healthcare or wellness issues.
+o_iwa/b098d47e-a976-4e50-b75c-3850c392fc2a,4.A.4.b.6,4.A.4.b.6.I07,Advise others on educational or vocational matters.
+o_iwa/76215980-7aea-4f1d-8e98-daa628e6a892,4.A.4.b.6,4.A.4.b.6.I08,Advise others on legal or regulatory matters.
+o_iwa/7563c890-c489-4ac1-af61-3246f3774857,4.A.4.b.6,4.A.4.b.6.I09,Advise others on workplace health or safety issues.
+o_iwa/7a6fcd3c-fc3f-4c0d-a74a-5d4d4e951c2f,4.A.4.b.6,4.A.4.b.6.I10,Counsel others about personal matters.
+o_iwa/f6b0a4f5-9159-40b3-b5d9-5e6cc32130de,4.A.4.b.6,4.A.4.b.6.I11,Advise others on financial matters.
+o_iwa/6afae27e-1a7f-48d2-bacd-be7c92ae78ae,4.A.4.c.1,4.A.4.c.1.I01,Perform administrative or clerical activities.
+o_iwa/e96ff2f7-8843-4377-8af0-45a693313862,4.A.4.c.1,4.A.4.c.1.I02,Perform court-related or other legal administrative activities.
+o_iwa/fc9faaca-b619-4e20-b08d-d92c1c3a2be1,4.A.4.c.1,4.A.4.c.1.I03,Execute financial transactions.
+o_iwa/78b4fbcd-c0e3-43bb-890c-fdcc2766a08d,4.A.4.c.1,4.A.4.c.1.I04,Issue documentation.
+o_iwa/57c0b71e-0dd2-4107-92e6-8c728ec7ad95,4.A.4.c.1,4.A.4.c.1.I05,Process shipments or mail.
+o_iwa/aa530e10-2cea-4f31-91db-1eefb88743b3,4.A.4.c.1,4.A.4.c.1.I06,Process forensic or legal evidence.
+o_iwa/4a3f1d4c-885e-43cb-80ae-c8f3dc693cb0,4.A.4.c.2,4.A.4.c.2.I01,Perform recruiting or hiring activities.
+o_iwa/e966164f-8372-4f22-b0e6-cc0389cd47e9,4.A.4.c.2,4.A.4.c.2.I02,Perform human resources activities.
+o_iwa/168dfa1b-c767-4102-8db7-dd0df77eac0c,4.A.4.c.3,4.A.4.c.3.I01,"Replenish inventories of materials, equipment, or products."
+o_iwa/5f54fc68-5829-476b-b5bf-82c935b55d64,4.A.4.c.3,4.A.4.c.3.I02,Order medical tests or procedures.
+o_iwa/54b76f42-61a0-4525-bbfd-4a8c92c54e59,4.A.4.c.3,4.A.4.c.3.I03,"Distribute materials, supplies, or resources."
+o_iwa/c310e941-24ef-4955-abac-96be0c5ef34e,4.A.4.c.3,4.A.4.c.3.I04,Collect fares or payments.
+o_iwa/6c88f9b5-cd28-4603-8ad0-45f185af47cd,4.A.4.c.3,4.A.4.c.3.I05,Purchase goods or services.
+o_iwa/bde1a8da-9513-4b77-9c00-e77a11e0ef6b,4.A.4.c.3,4.A.4.c.3.I06,Prescribe medical treatments or devices.
+o_iwa/08df634a-06f2-4d9d-a7ff-e3f394a0a526,4.A.4.c.3,4.A.4.c.3.I07,Monitor resources or inventories.

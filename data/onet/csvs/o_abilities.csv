@@ -1,0 +1,53 @@
+_id,Element ID,Element Name
+o_abilities/cd3cf912-fb8e-4965-9b60-d283335a8bfb,1.A.1.a.1,Oral Comprehension
+o_abilities/e3134472-8edd-473c-90b7-2c0ea1df8e55,1.A.1.a.2,Written Comprehension
+o_abilities/6935d301-5eaf-473f-b004-bb0e7f235423,1.A.1.a.3,Oral Expression
+o_abilities/dea0440c-110c-4f69-ae50-ffa829fdb88c,1.A.1.a.4,Written Expression
+o_abilities/8dfd7581-49d5-4895-8cd6-c676e2bf76f1,1.A.1.b.1,Fluency of Ideas
+o_abilities/ce9ac473-d37c-4bc3-8f49-3c69ba192025,1.A.1.b.2,Originality
+o_abilities/35b1eb5d-8df5-4a84-ad55-6b0793d57a9b,1.A.1.b.3,Problem Sensitivity
+o_abilities/2696af50-63e7-4097-9306-ab728ade6ec2,1.A.1.b.4,Deductive Reasoning
+o_abilities/95c53ff5-a1e5-417d-abd0-790d019bf520,1.A.1.b.5,Inductive Reasoning
+o_abilities/1a97bfab-20bd-4a23-92c4-bbedaa3e8b83,1.A.1.b.6,Information Ordering
+o_abilities/99e5d143-0ccb-46d1-809a-28801569ddb4,1.A.1.b.7,Category Flexibility
+o_abilities/ccf662f0-c9ab-4692-abd0-6a3823a916c9,1.A.1.c.1,Mathematical Reasoning
+o_abilities/67f7a003-60db-4bce-95d3-26c4d6aec6f9,1.A.1.c.2,Number Facility
+o_abilities/29c450ef-7b95-4959-ac4e-97d81e4c13bf,1.A.1.d.1,Memorization
+o_abilities/101f0951-09c9-4789-a234-082d8c5b134e,1.A.1.e.1,Speed of Closure
+o_abilities/d2b78371-cc21-4ef0-9e81-ff1a0c316404,1.A.1.e.2,Flexibility of Closure
+o_abilities/05da43f2-e89b-44e4-abeb-849b4db7cd26,1.A.1.e.3,Perceptual Speed
+o_abilities/b96a21bd-0ea9-404a-bab4-c274ece19b8b,1.A.1.f.1,Spatial Orientation
+o_abilities/bd292045-d232-440e-98c6-ecbf386c4681,1.A.1.f.2,Visualization
+o_abilities/f8bf2cd8-585d-4fbf-a91f-a4f7bdb61e11,1.A.1.g.1,Selective Attention
+o_abilities/519d3f83-721e-4a0c-8de5-74bd229903c8,1.A.1.g.2,Time Sharing
+o_abilities/8be47a29-4dfc-4f58-9605-997c6f009032,1.A.2.a.1,Arm-Hand Steadiness
+o_abilities/5941b314-513e-4650-bd3e-8f780058983e,1.A.2.a.2,Manual Dexterity
+o_abilities/00bd6dc1-38a0-4fb2-bdf7-0e2c1a8eb7cd,1.A.2.a.3,Finger Dexterity
+o_abilities/a4bc1d82-48d5-4f72-a8fe-70d82c503612,1.A.2.b.1,Control Precision
+o_abilities/a626da16-54f4-4dcf-a3e0-c6c3d01446ae,1.A.2.b.2,Multilimb Coordination
+o_abilities/72b8358c-ea95-467f-9e4d-788b62465a19,1.A.2.b.3,Response Orientation
+o_abilities/31664453-ebba-45c8-a2a8-f1927f71b56c,1.A.2.b.4,Rate Control
+o_abilities/0c350e21-08e7-4917-bb03-59f64605ce0c,1.A.2.c.1,Reaction Time
+o_abilities/ed1b9617-9b62-4054-96a1-c1d961c5307e,1.A.2.c.2,Wrist-Finger Speed
+o_abilities/7379ae62-728e-4c1c-b432-a370c3132490,1.A.2.c.3,Speed of Limb Movement
+o_abilities/eadbec1c-c5e3-495c-b686-02bd786cf11e,1.A.3.a.1,Static Strength
+o_abilities/c9cbbba4-4db4-4412-81ad-3774c432a504,1.A.3.a.2,Explosive Strength
+o_abilities/7c9bf00b-b06d-4f12-99c8-aa10097a692b,1.A.3.a.3,Dynamic Strength
+o_abilities/c2ff0c92-5bed-4e73-83d2-98c8208eee9f,1.A.3.a.4,Trunk Strength
+o_abilities/678ddb6a-1bb6-4a07-96c2-388033f5d0e1,1.A.3.b.1,Stamina
+o_abilities/29291edb-53dd-466e-9ebb-e5c00f7fe507,1.A.3.c.1,Extent Flexibility
+o_abilities/4e3b35f4-165f-4bfb-8107-e7a34155ffe4,1.A.3.c.2,Dynamic Flexibility
+o_abilities/57d6d27e-c4db-45a4-aec2-774a8c30057f,1.A.3.c.3,Gross Body Coordination
+o_abilities/f40896a9-5618-4599-b81c-0065cfcaf9d2,1.A.3.c.4,Gross Body Equilibrium
+o_abilities/1ba74502-9dbe-44f8-8c19-2ac324dda7cb,1.A.4.a.1,Near Vision
+o_abilities/5d044953-7ccd-44d5-8d5e-805e8ea81e40,1.A.4.a.2,Far Vision
+o_abilities/543d6ad3-e5a2-4908-885c-c1e4f0f8cec4,1.A.4.a.3,Visual Color Discrimination
+o_abilities/d0f94ff9-86f8-465a-9b55-745da94cd9e7,1.A.4.a.4,Night Vision
+o_abilities/ee82c370-86fb-4f6a-b33e-807a7b695afc,1.A.4.a.5,Peripheral Vision
+o_abilities/8a9f296c-8a81-4ae6-be75-d6aadfd9c4a2,1.A.4.a.6,Depth Perception
+o_abilities/17f7d2b9-49c3-469f-a2c6-1a0f1b892604,1.A.4.a.7,Glare Sensitivity
+o_abilities/79bb458a-7393-410e-99af-e57283f97b0e,1.A.4.b.1,Hearing Sensitivity
+o_abilities/a096687a-02bd-4506-a95f-199f2c723748,1.A.4.b.2,Auditory Attention
+o_abilities/1e7727b8-2fda-4e50-ba83-89920eaa7f4c,1.A.4.b.3,Sound Localization
+o_abilities/9e6e1c1d-2445-4dc4-9c99-bf40631b37be,1.A.4.b.4,Speech Recognition
+o_abilities/d2f3563b-4ce3-4d8d-b605-46aeaaf2819a,1.A.4.b.5,Speech Clarity

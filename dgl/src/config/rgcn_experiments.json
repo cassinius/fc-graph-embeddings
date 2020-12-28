@@ -1,0 +1,56 @@
+{
+  "experiments": [
+    {
+      "name": "esco_job_topjob",
+      "graph": "esco",
+      "graph_file": "esco_graph.bin",
+      "target_type": "job",
+      "target_attr": "top-job"
+    },
+    {
+      "name": "esco_skill_reuse",
+      "graph": "esco",
+      "graph_file": "esco_graph_feats.bin",
+      "target_type": "skill",
+      "target_attr": "reuse",
+      "init_embed_config": {
+        "skill": {
+          "attrs": ["preferredLabel", "altLabels", "description"],
+          "aggregator": "sum"
+        },
+        "job": {
+          "attrs": ["preferredLabel", "altLabels", "description"],
+          "aggregator": "sum"
+        }
+      }
+    },
+    {
+      "name": "esco_skill_type",
+      "graph": "esco",
+      "graph_file": "esco_graph_feats.bin",
+      "target_type": "skill",
+      "target_attr": "type"
+    },
+    {
+      "name": "onet_job_topjob",
+      "graph": "onet",
+      "graph_file": "onet_graph.bin",
+      "target_type": "job",
+      "target_attr": "top-job"
+    },
+    {
+      "name": "onet_task_type",
+      "graph": "onet",
+      "graph_file": "onet_graph.bin",
+      "target_type": "task",
+      "target_attr": "type"
+    },
+    {
+      "name": "onet_task_source",
+      "graph": "onet",
+      "graph_file": "onet_graph.bin",
+      "target_type": "task",
+      "target_attr": "source"
+    }
+  ]
+}

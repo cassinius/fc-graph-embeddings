@@ -1,0 +1,30 @@
+_id,Scale ID,Scale Name,Minimum,Maximum
+o_scale/980fbfa6-7faf-4772-b954-752ded9a26a4,AO,Automation,1,5
+o_scale/a8c957ba-38ba-42a5-ab9e-a45bc94126e0,CF,Frequency,1,5
+o_scale/729d8b1a-f053-4ada-9cd8-2dac0d119261,CN,Amount of Contact,1,5
+o_scale/0fd030b0-8c03-4d68-aca3-20291d5062cd,CT,Context,1,3
+o_scale/93d320ec-fbaf-431d-937c-80efd53a01e1,CTP,Context (Categories 1-3),0,100
+o_scale/d71a10bc-9bd5-4ff9-a4e0-27d1c2027bca,CX,Context,1,5
+o_scale/0784450b-5dbf-4c1e-8997-3e4805509859,CXP,Context (Categories 1-5),0,100
+o_scale/194b7da2-8f8c-4ed1-8d7b-876469ef43bd,EX,Extent,1,7
+o_scale/397b4ee8-c190-493b-91ef-fecd69e83252,FM,Amount of Freedom,1,5
+o_scale/262b208c-cdf2-488b-8a6e-0c2e2f717cc4,FT,Frequency of Task (Categories 1-7),0,100
+o_scale/df86abbf-4021-4f28-ab1b-29bb87503b51,HW,Hours Per Week,1,3
+o_scale/2717b4f7-a1f0-4de4-ba85-0b8c6d59489c,IH,Occupational Interest High-Point,0,6
+o_scale/cda423bd-4dc9-4dd7-920a-2ffc85f44e4e,IJ,Importance,1,5
+o_scale/8d7fb46d-f723-4755-a19b-542ec119a52c,IM,Importance,1,5
+o_scale/78758d62-8e46-4551-9fa2-afefeae2100e,IP,Impact of Decisions,1,5
+o_scale/c499f8f8-425b-4b01-9586-6ce91811696b,LC,Level of Competition,1,5
+o_scale/1e34ce8e-ce01-451a-a2b3-dd30be22e18f,LV,Level,0,7
+o_scale/fb1166bd-36ff-4d1d-b2af-a4e7ef39ca5d,OI,Occupational Interests,1,7
+o_scale/2ecc745e-a028-47d4-ae22-b18ac6000d16,OJ,On-The-Job Training (Categories 1-9),0,100
+o_scale/b569b199-0417-43c9-8f7e-4eebde9f8b53,PT,On-Site Or In-Plant Training (Categories 1-9),0,100
+o_scale/93a77481-06cb-45e0-984b-fb907c1010a6,PX,Proximity,1,5
+o_scale/bb912ec0-a0b7-4cea-8a2e-0dab7c3c4450,RE,Responsibility,1,5
+o_scale/b9d62fc1-8d97-4e6d-bfdf-aecf22efb3d5,RL,Required Level Of Education (Categories 1-12),0,100
+o_scale/7c066278-66f2-43f7-a4fe-16f689869cdc,RT,Relevance of Task,0,100
+o_scale/cdda2bb9-29cf-4a48-bb90-b354f33f1552,RW,Related Work Experience (Categories 1-11),0,100
+o_scale/d301ab47-22e8-452a-b823-04fcee8b977e,SR,How Serious,1,5
+o_scale/9138cf79-6b1c-4428-858c-93b8e1ff30b3,TI,% Time,1,5
+o_scale/3366896c-f161-4a80-9cf1-cd2fdd01080d,VH,Work Value High-Point,1,6
+o_scale/b38e6e6c-47f4-4683-a1cd-e6ba105b47c9,WS,Work Schedule,1,3
