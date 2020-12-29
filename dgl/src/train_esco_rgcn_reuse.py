@@ -2,7 +2,7 @@ from pathlib import Path
 from train_rgcn import prepare_and_perform_training
 
 
-esco_file = Path(__file__).parent / "../../trained_models/esco_graph_feats.bin"
+esco_file = Path(__file__).parent / "../../graphs/esco_graph_feats.bin"
 
 
 # # numeric job features -> to one-hot followed by pca

@@ -6,7 +6,7 @@ from pathlib import Path
 from train_rgcn import prepare_and_perform_training
 
 
-graph_file_dir = Path(__file__).parent / "../../trained_models"
+graph_file_dir = Path(__file__).parent / "../../graphs"
 experiments_file = Path(__file__).parent / "./config/rgcn_experiments.json"
 config_file = Path(__file__).parent / "./config/rgcn.config"
 
